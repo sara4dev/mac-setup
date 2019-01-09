@@ -10,7 +10,9 @@ brew cask install atom
 brew cask install google-chrome
 brew cask install spectacle
 brew cask install intellij-idea
+brew cask install google-cloud-sdk
+
 brew install fish
 brew install git
 brew install hub
-brew cask install google-cloud-sdk
+brew install kubectl
