@@ -19,3 +19,4 @@ brew install hub
 brew install kubectl
 brew install ansible
 brew install go
+brew install helm
