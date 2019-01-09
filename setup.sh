@@ -16,3 +16,4 @@ brew install fish
 brew install git
 brew install hub
 brew install kubectl
+brew install ansible
