@@ -18,6 +18,7 @@ brew install fish
 brew install git
 brew install hub
 brew install kubectl
+brew install kubectx
 brew install ansible
 brew install go
 brew install kubernetes-helm
