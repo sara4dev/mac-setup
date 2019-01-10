@@ -23,3 +23,4 @@ brew install go
 brew install kubernetes-helm
 brew install wget
 brew install watch
+brew install jq
