@@ -25,3 +25,4 @@ brew install kubernetes-helm
 brew install wget
 brew install watch
 brew install jq
+brew install awscli
