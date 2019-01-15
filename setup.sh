@@ -15,6 +15,8 @@ brew cask install google-backup-and-sync
 brew cask install clipy
 brew cask install docker
 brew cask install minikube
+brew cask install slack
+brew cask install virtualbox
 
 brew install fish
 brew install git
