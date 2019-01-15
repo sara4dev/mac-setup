@@ -13,6 +13,8 @@ brew cask install intellij-idea
 brew cask install google-cloud-sdk
 brew cask install google-backup-and-sync
 brew cask install clipy
+brew cask install docker
+brew cask install minikube
 
 brew install fish
 brew install git
