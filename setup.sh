@@ -18,6 +18,7 @@ brew cask install minikube
 brew cask install slack
 brew cask install virtualbox
 brew cask install sourcetree
+brew cask install skitch
 
 brew install fish
 brew install git
