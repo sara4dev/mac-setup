@@ -33,4 +33,5 @@ brew install watch
 brew install jq
 brew install awscli
 brew install hugo
+brew install telnet
 
