@@ -36,7 +36,7 @@ brew install jq
 brew install awscli
 brew install hugo
 brew install telnet
-brew install qemu libvirt gcc ruby ruby-build rbenv libiconv #https://github.com/vagrant-libvirt/vagrant-libvirt/issues/818#issue-263657604
-brew services start libvirt
-vagrant plugin install vagrant-libvirt
+#brew install qemu libvirt gcc ruby ruby-build rbenv libiconv #https://github.com/vagrant-libvirt/vagrant-libvirt/issues/818#issue-263657604
+#brew services start libvirt
+#vagrant plugin install vagrant-libvirt
 brew install vagrant-completion
