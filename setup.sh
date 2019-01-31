@@ -17,6 +17,8 @@ brew cask install docker
 brew cask install minikube
 brew cask install slack
 brew cask install virtualbox
+brew cask install vagrant
+brew cask install vagrant-manager
 brew cask install sourcetree
 brew cask install skitch
 
@@ -34,4 +36,4 @@ brew install jq
 brew install awscli
 brew install hugo
 brew install telnet
-brew install vagrant
+brew install vagrant-completion
