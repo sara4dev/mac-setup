@@ -36,4 +36,5 @@ brew install jq
 brew install awscli
 brew install hugo
 brew install telnet
+brew install libvirt
 brew install vagrant-completion
