@@ -34,4 +34,4 @@ brew install jq
 brew install awscli
 brew install hugo
 brew install telnet
-
+brew install vagrant
