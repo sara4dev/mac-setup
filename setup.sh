@@ -37,4 +37,6 @@ brew install awscli
 brew install hugo
 brew install telnet
 brew install libvirt
+brew services start libvirt
+vagrant plugin install vagrant-libvirt
 brew install vagrant-completion
