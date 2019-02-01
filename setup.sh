@@ -40,3 +40,4 @@ brew install telnet
 #brew services start libvirt
 #vagrant plugin install vagrant-libvirt
 brew install vagrant-completion
+brew cask install visual-studio-code
