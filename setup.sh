@@ -21,6 +21,7 @@ brew cask install vagrant
 brew cask install vagrant-manager
 brew cask install sourcetree
 brew cask install skitch
+brew cask install insomnia
 
 brew install fish
 brew install git
