@@ -22,6 +22,7 @@ brew cask install vagrant-manager
 brew cask install sourcetree
 brew cask install skitch
 brew cask install insomnia
+brew cask install visual-studio-code
 
 brew install fish
 brew install git
@@ -41,4 +42,4 @@ brew install telnet
 #brew services start libvirt
 #vagrant plugin install vagrant-libvirt
 brew install vagrant-completion
-brew cask install visual-studio-code
+brew install vegeta
