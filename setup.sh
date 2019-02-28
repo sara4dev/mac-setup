@@ -31,6 +31,7 @@ brew install kubectl
 brew install kubectx
 brew install ansible
 brew install go
+brew install dep
 brew install kubernetes-helm
 brew install wget
 brew install watch
