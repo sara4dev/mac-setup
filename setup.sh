@@ -44,3 +44,8 @@ brew install telnet
 #vagrant plugin install vagrant-libvirt
 brew install vagrant-completion
 brew install vegeta
+brew install npm
+
+
+
+npm install -g grpcc
