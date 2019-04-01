@@ -29,6 +29,7 @@ brew install git
 brew install hub
 brew install kubectl
 brew install kubectx
+brew install kustomize
 brew install ansible
 brew install go
 brew install dep
