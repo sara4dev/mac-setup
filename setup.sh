@@ -4,6 +4,7 @@
 
 brew update 
 brew tap caskroom/cask
+brew tap buildpack/tap
 
 brew cask install iterm2
 brew cask install java
@@ -25,6 +26,7 @@ brew cask install skitch
 brew cask install insomnia
 brew cask install visual-studio-code
 
+brew install pack
 brew install fish
 brew install git
 brew install hub
