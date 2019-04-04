@@ -6,6 +6,7 @@ brew update
 brew tap caskroom/cask
 
 brew cask install iterm2
+brew cask install java
 brew cask install atom
 brew cask install google-chrome
 brew cask install spectacle
