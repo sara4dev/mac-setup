@@ -25,6 +25,8 @@ brew cask install sourcetree
 brew cask install skitch
 brew cask install insomnia
 brew cask install visual-studio-code
+brew cask install wireshark
+
 
 brew install pack
 brew install fish
