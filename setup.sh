@@ -52,7 +52,7 @@ brew install kafkacat
 brew install vagrant-completion
 brew install vegeta
 brew install npm
-
+brew install etcd
 
 
 npm install -g grpcc
