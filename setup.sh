@@ -53,6 +53,7 @@ brew install vagrant-completion
 brew install vegeta
 brew install npm
 brew install etcd
+brew install sphinx-doc
 
 
 npm install -g grpcc
