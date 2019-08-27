@@ -54,6 +54,8 @@ brew install vegeta
 brew install npm
 brew install etcd
 brew install sphinx-doc
+brew install grpcurl
+
 
 
 npm install -g grpcc
