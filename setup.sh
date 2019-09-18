@@ -5,6 +5,8 @@
 brew update 
 brew tap caskroom/cask
 brew tap buildpack/tap
+brew tap bazelbuild/tap
+
 
 brew cask install iterm2
 brew cask install java
@@ -55,6 +57,7 @@ brew install npm
 brew install etcd
 brew install sphinx-doc
 brew install grpcurl
+brew install bazelbuild/tap/bazel
 
 
 
