@@ -8,6 +8,7 @@ brew update
 brew tap caskroom/cask
 
 brew install --cask google-chrome
+brew install --cask bitwarden
 brew install --cask spectacle
 brew install --cask maccy
 brew install --cask docker
