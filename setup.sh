@@ -14,7 +14,6 @@ brew install --cask spectacle
 brew install --cask maccy
 brew install --cask docker
 brew install --cask slack
-brew install --cask skitch
 brew install --cask insomnia
 brew install --cask visual-studio-code
 brew install --cask warp
