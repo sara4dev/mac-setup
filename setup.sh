@@ -7,7 +7,6 @@ set -ex
     eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew update 
-brew tap homebrew/cask
 
 brew install --cask google-chrome
 brew install --cask bitwarden
