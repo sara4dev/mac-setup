@@ -18,6 +18,7 @@ brew install --cask insomnia
 brew install --cask visual-studio-code
 brew install --cask warp
 brew install --cask wireshark
+brew install --cask raycast
 
 brew install git
 brew install kubectl
