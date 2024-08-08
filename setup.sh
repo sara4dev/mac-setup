@@ -33,3 +33,4 @@ brew install telnet
 brew install vegeta
 brew install nvm
 brew install grpcurl
+brew install ngrok/ngrok/ngrok
